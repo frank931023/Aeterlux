@@ -7,7 +7,7 @@
 - **系統規格**:[docs/Aeterlux_系統概述文件_0914.docx](docs/Aeterlux_系統概述文件_0914.docx)
 - 架構說明:[docs/architecture.md](docs/architecture.md) · 資料流:[docs/data-flow.md](docs/data-flow.md) · 威脅模型:[docs/threat-model.md](docs/threat-model.md)
 - 中文完整概述:[docs/project-overview-zh.md](docs/project-overview-zh.md)
-- 後端伺服器 repo:[Your-Mama-IsDead-Server](https://github.com/box755/Your-Mama-IsDead-Server)
+- 後端伺服器 repo:[Aeterlux-render-server]([https://github.com/box755/Your-Mama-IsDead-Server](https://github.com/box755/Aeterlux-render-server))
 
 ## 系統架構(系統概述文件 圖二)
 
